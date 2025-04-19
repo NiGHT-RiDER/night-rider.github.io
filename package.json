@@ -1,0 +1,16 @@
+{
+  "name": "json-resume",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "init" : "resumed init",
+    "render" : "resumed render -o index.html"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "jsonresume-theme-stackoverflow": "^2.1.0",
+    "resumed": "^5.0.0"
+  }
+}

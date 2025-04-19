@@ -1,0 +1,245 @@
+{
+  "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
+  "basics": {
+    "name": "Bogdanovic Stefan",
+    "label": "Full Stack Developer",
+    "image": "",
+    // "email": "bogdanovicstefan.sb@gmail.com",
+    // "phone": "+32 487 38 34 20",
+    "url": "http://www.night-rider.github.io",
+    "summary": "Stefan is a seasoned full stack developer with over 6 years of experience in modern web development.\nHe has contributed to high-impact projects for major players like Proximus, Telenet, VLAIO, and Keytrade Bank.\nKnown for his calm under pressure and proactive attitude, Stefan takes ownership of code deployments in production environments and brings a strategic, high-level understanding of technical workflows.\nHe thrives in collaborative settings and believes that strong teamwork is key to delivering outstanding results.\nBeyond just writing code, Stefan cares deeply about the business impact of his work, always aligning technical solutions with broader goals.\nHis drive to learn and grow makes him a valuable asset to any team seeking a developer who combines technical expertise with business awareness and a collaborative spirit.",
+    "location": {
+      // "address": "Rossemdorp 13a",
+      // "postalCode": "1861",
+      // "city": "Meise",
+      "countryCode": "BE",
+      "region": "Brussels"
+    },
+    "profiles": [
+      {
+       "network": "GitHub",
+        "username": "night-rider",
+        "url": "https://github.com/NiGHT-RiDER"
+      },
+      {
+        "network": "LinkedIn",
+        "username": "Bogdanovic Stefan",
+        "url": "https://www.linkedin.com/in/stefan-bogdanovic-62167614a/"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "Keytrade Bank",
+      "location": "Brussels, Belgium",
+      "description": "Keytrade Bank is a Belgian online bank and brokerage firm.",
+      "position": "Full Stack Developer (Permanent employee)",
+      "url": "https://www.keytradebank.be/",
+      "startDate": "2021-05",
+      "summary": "Part of a team responsible for the development of access management and onboarding at Keytrade Bank.",
+      "highlights": [
+        "Developed the new onboarding process for Keytrade Bank inside the mobile application",
+        "Integrated itsme©️ for authentication and identification inside of the company",
+        "Migrated the old Access management system to a new one",
+        "Migrated all the Node.js codebases to Node.js 22",
+        "Part of the frontend chapter bringing new technologies to the company"
+      ]
+    },
+    {
+      "name": "Proximus",
+      "location": "Brussels, Belgium",
+      "description": "Proximus is a Belgian telecommunications company.",
+      "position": "Full Stack Developer (Contractor)",
+      "url": "https://www.proximus.be/",
+      "startDate": "2020-11",
+      "endDate": "2021-05",
+      "summary": "Part of a team responsible for the development of the Proximus TV application.",
+      "highlights": [
+        "Developed new features on the Pickx application using React.js and Node.js",
+        "Developed and pushed the VOD catalog to production",
+        "Worked closely with the design team to create a user-friendly interface"
+      ]
+    },
+    {
+      "name": "Telenet",
+      "location": "Mechelen, Belgium",
+      "description": "Telenet is a Belgian provider of broadband internet, television, and telephone services.",
+      "position": "Full Stack Developer (Contractor)",
+      "url": "https://www.telenet.be/",
+      "startDate": "2019-06",
+      "endDate": "2020-11",
+      "summary": "Part of a team responsible for the development of the Telenet field repair application.",
+      "highlights": [
+        "Developed features on the field repair application using React.js and Node.js and PHP"
+      ]
+    },
+    {
+      "name": "VLAIO",
+      "location": "Brussels, Belgium",
+      "description": "VLAIO is the Flanders Innovation & Entrepreneurship agency.",
+      "position": "Frontend Developer (Contractor)",
+      "url": "https://www.vlaio.be/",
+      "startDate": "2019-01",
+      "endDate": "2019-06",
+      "summary": "",
+      "highlights": [
+        "Developed the new frontend for the KMO matchmaking platform"
+      ]
+    },
+    {
+      "name": "Hackages",
+      "location": "Brussels, Belgium",
+      "description": "Hackages is a company that provides training and consulting services in modern web development.",
+      "position": "Full Stack Developer",
+      "url": "https://hackages.io/",
+      "startDate": "2018-06",
+      "endDate": "2018-12",
+      "summary": "",
+      "highlights": [
+        "Worked on the Hackages platform and also gave courses as part of the company's goal to teach business customers new technologies"
+      ]
+    },
+    {
+      "name": "Sopra Steria",
+      "location": "Brussels, Belgium",
+      "description": "Sopra Steria is a European leader in digital transformation.",
+      "position": "Intern",
+      "url": "https://www.soprasteria.be/",
+      "startDate": "2018-01",
+      "endDate": "2018-06",
+      "summary": "",
+      "highlights": [
+        "Developed a proof of concept for the national police for fingerprinting suspects",
+        "Worked on facial analysis integration with robots for easier onboarding of new people in the office when they arrive",
+        "Worked in the digilab initiative which served as an incubator for new ideas and projects"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Institut Paul Lambin",
+      "url": "https://www.vinci.be/fr/la-haute-ecole",
+      "area": "Informatique de gestion",
+      "studyType": "Bachelor",
+      "startDate": "2013-09",
+      "endDate": "2018-09"
+    },
+    {
+      "institution": "Linux Foundation - LFW211 Node.js Developer",
+      "url": "https://training.linuxfoundation.org/certification/node-js-developer-certification-lfw211/",
+      "area": "Node.js",
+      "studyType": "Certification"
+    },
+    {
+      "institution": "Linux Foundation - LFW212 Node.js Developer",
+      "url": "https://training.linuxfoundation.org/certification/node-js-developer-certification-lfw212/",
+      "area": "Node.js",
+      "studyType": "Certification"
+    }
+  ],
+
+  "skills": [
+    {
+      "name": "JavaScript",
+      "level": "Advanced",
+      "keywords": [
+        "Node.js",
+        "React.js",
+        "TypeScript"
+      ]
+    },
+    {
+      "name": "HTML/CSS",
+      "level": "Advanced",
+      "keywords": [
+        "HTML5",
+        "CSS3"
+      ]
+    },
+    {
+      "name": "Docker",
+      "level": "Proficient"
+    },
+    {
+      "name": "Git",
+      "level": "Proficient",
+      "keywords": [
+        "GitHub",
+        "GitLab"
+      ]
+    },
+    {
+      "name": "PostgreSQL",
+      "level": "Proficient"
+    },
+    {
+      "name": "RabbitMQ",
+      "level": "Proficient"
+    },
+    {
+      "name": "Teamwork",
+      "level": "Expert"
+    },
+    {
+      "name": "Communication",
+      "level": "Expert"
+    },
+    {
+      "name": "Problem Solving",
+      "level": "Expert"
+    },
+    {
+      "name": "Adaptability",
+      "level": "Expert"
+    }
+
+  ],
+  "languages": [
+    {
+      "language": "French",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "Serbian",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "English",
+      "fluency": "Fluent"
+    },
+    {
+      "language": "Dutch",
+      "fluency": "Conversational"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Hiking",
+      "keywords": [
+        "Mountains",
+        "Nature"
+      ]
+    },
+    {
+      "name": "Dogs",
+      "keywords": [
+        "Pekingese",
+        "Dog training"
+      ]
+    },
+    {
+      "name": "Family",
+      "keywords": [
+        "Kids",
+        "Family time"
+      ]
+    }
+  ],
+ 
+  "meta": {
+    "canonical": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/sample.resume.json",
+    "version": "v1.0.0",
+    "lastModified": "2017-12-24T15:53:00",
+    "theme": "jsonresume-theme-stackoverflow"
+  }
+}
