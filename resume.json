@@ -45,32 +45,33 @@
         "Part of the frontend chapter bringing new technologies to the company"
       ]
     },
-    {
-      "company": "Proximus",
-      "location": "Brussels, Belgium",
-      "description": "Proximus is a Belgian telecommunications company.",
-      "position": "Full Stack Developer (Contractor)",
-      "url": "https://www.proximus.be/",
-      "startDate": "2020-11",
-      "endDate": "2021-05",
-      "summary": "Part of a team responsible for the development of the Proximus TV application.",
-      "highlights": [
-        "Developed new features on the Pickx application using React.js and Node.js",
-        "Developed and pushed the VOD catalog to production",
-        "Worked closely with the design team to create a user-friendly interface"
-      ]
-    },
+    
     {
       "company": "Telenet",
       "location": "Mechelen, Belgium",
       "description": "Telenet is a Belgian provider of broadband internet, television, and telephone services.",
       "position": "Full Stack Developer (Contractor)",
       "url": "https://www.telenet.be/",
-      "startDate": "2019-06",
-      "endDate": "2020-11",
+      "startDate": "2020-09",
+      "endDate": "2021-05",
       "summary": "Part of a team responsible for the development of the Telenet field repair application.",
       "highlights": [
         "Developed features on the field repair application using React.js and Node.js and PHP"
+      ]
+    },
+    {
+      "company": "Proximus",
+      "location": "Brussels, Belgium",
+      "description": "Proximus is a Belgian telecommunications company.",
+      "position": "Full Stack Developer (Contractor)",
+      "url": "https://www.proximus.be/",
+      "startDate": "2019-06",
+      "endDate": "2020-09",
+      "summary": "Part of a team responsible for the development of the Proximus TV application.",
+      "highlights": [
+        "Developed new features on the Pickx application using React.js and Node.js",
+        "Developed and pushed the VOD catalog to production",
+        "Worked closely with the design team to create a user-friendly interface"
       ]
     },
     {
