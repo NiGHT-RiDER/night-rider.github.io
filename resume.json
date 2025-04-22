@@ -7,7 +7,7 @@
     // "email": "bogdanovicstefan.sb@gmail.com",
     // "phone": "+32 487 38 34 20",
     "url": "http://www.night-rider.github.io",
-    "summary": "Stefan is a seasoned full stack developer with over 6 years of experience in modern web development.\nHe has contributed to high-impact projects for major players like Proximus, Telenet, VLAIO, and Keytrade Bank.\nKnown for his calm under pressure and proactive attitude, Stefan takes ownership of code deployments in production environments and brings a strategic, high-level understanding of technical workflows.\nHe thrives in collaborative settings and believes that strong teamwork is key to delivering outstanding results.\nBeyond just writing code, Stefan cares deeply about the business impact of his work, always aligning technical solutions with broader goals.\nHis drive to learn and grow makes him a valuable asset to any team seeking a developer who combines technical expertise with business awareness and a collaborative spirit.",
+    "summary": "Stefan is a seasoned full stack developer with over 7 years of experience in modern web development.\nHe has contributed to high-impact projects for major players like Proximus, Telenet, VLAIO, and Keytrade Bank.\nKnown for his calm under pressure and proactive attitude, Stefan takes ownership of code deployments in production environments and brings a strategic, high-level understanding of technical workflows.\nHe thrives in collaborative settings and believes that strong teamwork is key to delivering outstanding results.\nBeyond just writing code, Stefan cares deeply about the business impact of his work, always aligning technical solutions with broader goals.\nHis drive to learn and grow makes him a valuable asset to any team seeking a developer who combines technical expertise with business awareness and a collaborative spirit.",
     "location": {
       // "address": "Rossemdorp 13a",
       // "postalCode": "1861",
@@ -30,7 +30,7 @@
   },
   "work": [
     {
-      "name": "Keytrade Bank",
+      "company": "Keytrade Bank",
       "location": "Brussels, Belgium",
       "description": "Keytrade Bank is a Belgian online bank and brokerage firm.",
       "position": "Full Stack Developer (Permanent employee)",
@@ -46,7 +46,7 @@
       ]
     },
     {
-      "name": "Proximus",
+      "company": "Proximus",
       "location": "Brussels, Belgium",
       "description": "Proximus is a Belgian telecommunications company.",
       "position": "Full Stack Developer (Contractor)",
@@ -61,7 +61,7 @@
       ]
     },
     {
-      "name": "Telenet",
+      "company": "Telenet",
       "location": "Mechelen, Belgium",
       "description": "Telenet is a Belgian provider of broadband internet, television, and telephone services.",
       "position": "Full Stack Developer (Contractor)",
@@ -74,7 +74,7 @@
       ]
     },
     {
-      "name": "VLAIO",
+      "company": "VLAIO",
       "location": "Brussels, Belgium",
       "description": "VLAIO is the Flanders Innovation & Entrepreneurship agency.",
       "position": "Frontend Developer (Contractor)",
@@ -87,7 +87,7 @@
       ]
     },
     {
-      "name": "Hackages",
+      "company": "Hackages",
       "location": "Brussels, Belgium",
       "description": "Hackages is a company that provides training and consulting services in modern web development.",
       "position": "Full Stack Developer",
@@ -100,7 +100,7 @@
       ]
     },
     {
-      "name": "Sopra Steria",
+      "company": "Sopra Steria",
       "location": "Brussels, Belgium",
       "description": "Sopra Steria is a European leader in digital transformation.",
       "position": "Intern",
