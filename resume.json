@@ -30,21 +30,24 @@
   },
   "work": [
     {
-      "company": "Keytrade Bank",
-      "location": "Brussels, Belgium",
-      "description": "Keytrade Bank is a Belgian online bank and brokerage firm.",
-      "position": "Full Stack Developer (Permanent employee)",
-      "url": "https://www.keytradebank.be/",
-      "startDate": "2021-05",
-      "summary": "Part of a team responsible for the development of access management and onboarding at Keytrade Bank.",
-      "highlights": [
-        "Developed the new onboarding process for Keytrade Bank inside the mobile application",
-        "Integrated itsme©️ for authentication and identification inside of the company",
-        "Migrated the old Access management system to a new one",
-        "Migrated all the Node.js codebases to Node.js 22",
-        "Part of the frontend chapter bringing new technologies to the company"
-      ]
-    },
+  "company": "Keytrade Bank",
+  "location": "Brussels, Belgium",
+  "description": "Keytrade Bank is a Belgian online bank and brokerage firm.",
+  "position": "Full Stack Developer (Permanent employee)",
+  "url": "https://www.keytradebank.be/",
+  "startDate": "2021-05",
+  "summary": "Senior full stack developer contributing to critical onboarding, access management and mobile banking systems in a regulated financial environment.",
+  "highlights": [
+    "Played a key role in the redesign and delivery of Keytrade Bank’s onboarding flows across web and mobile, including authentication, identity verification and document handling",
+    "Integrated itsme® for secure authentication and identification, collaborating closely with backend, security and mobile teams",
+    "Acted as technical owner for Access Management, leading the migration from a legacy system to a modernized architecture",
+    "Led the migration of multiple Node.js services to Node.js 22, coordinating with several squads to ensure production stability",
+    "Owned production releases, UAT validation, hotfixes and incident resolution in collaboration with testers, product owners and operations",
+    "Regularly unblocked other developers and teams by investigating complex cross-system issues (frontend, backend, mobile, authentication, contracts)",
+    "Active contributor to the Frontend Chapter, promoting best practices, security improvements, tooling upgrades and shared standards",
+    "Strong involvement in run & reliability topics: performance issues, mobile crashes, disaster recovery exercises, and production monitoring"
+  ]
+}
     
     {
       "company": "Telenet",
@@ -137,106 +140,119 @@
       "area": "Node.js",
       "studyType": "Certification"
     }
-  ],
+  ],"skills": [
+  {
+    "name": "JavaScript & TypeScript",
+    "level": "Expert",
+    "keywords": [
+      "Node.js (backend & microservices)",
+      "React.js (web & mobile)",
+      "TypeScript",
+      "ES6+",
+      "Frontend architecture",
+      "API design"
+    ]
+  },
+  {
+    "name": "Frontend Development",
+    "level": "Advanced",
+    "keywords": [
+      "HTML5",
+      "CSS3 / SASS / Tailwind",
+      "Responsive & accessible design",
+      "UX collaboration",
+      "Performance optimization"
+    ]
+  },
+  {
+    "name": "DevOps & Deployment",
+    "level": "Proficient",
+    "keywords": [
+      "Docker",
+      "CI/CD pipelines",
+      "Node.js deployment",
+      "Production monitoring"
+    ]
+  },
+  {
+    "name": "Version Control & Collaboration",
+    "level": "Proficient",
+    "keywords": [
+      "Git",
+      "GitHub",
+      "GitLab",
+      "Code reviews",
+      "Branching strategies"
+    ]
+  },
+  {
+    "name": "Databases & Messaging",
+    "level": "Proficient",
+    "keywords": [
+      "PostgreSQL",
+      "RabbitMQ",
+      "Data modeling",
+      "Query optimization"
+    ]
+  },
+  {
+    "name": "Soft Skills",
+    "level": "Expert",
+    "keywords": [
+      "Teamwork & cross-team collaboration",
+      "Communication & knowledge sharing",
+      "Problem-solving & troubleshooting",
+      "Adaptability & continuous learning",
+      "Ownership & leadership"
+    ]
+  }
+],
+"languages": [
+  {
+    "language": "French",
+    "fluency": "Native"
+  },
+  {
+    "language": "Serbian",
+    "fluency": "Native"
+  },
+  {
+    "language": "English",
+    "fluency": "Fluent"
+  },
+  {
+    "language": "Dutch",
+    "fluency": "Intermediate"
+  }
+],
+"interests": [
+  {
+    "name": "Hiking & Outdoors",
+    "keywords": [
+      "Mountains",
+      "Nature",
+      "Trail running"
+    ]
+  },
+  {
+    "name": "Dogs",
+    "keywords": [
+      "Pekingese",
+      "Dog training",
+      "Animal care"
+    ]
+  },
+  {
+    "name": "Family & Personal Growth",
+    "keywords": [
+      "Kids",
+      "Family time",
+      "Parenting",
+      "Work-life balance"
+    ]
+  }
+]
 
-  "skills": [
-    {
-      "name": "JavaScript",
-      "level": "Advanced",
-      "keywords": [
-        "Node.js",
-        "React.js",
-        "TypeScript"
-      ]
-    },
-    {
-      "name": "HTML/CSS",
-      "level": "Advanced",
-      "keywords": [
-        "HTML5",
-        "CSS3"
-      ]
-    },
-    {
-      "name": "Docker",
-      "level": "Proficient"
-    },
-    {
-      "name": "Git",
-      "level": "Proficient",
-      "keywords": [
-        "GitHub",
-        "GitLab"
-      ]
-    },
-    {
-      "name": "PostgreSQL",
-      "level": "Proficient"
-    },
-    {
-      "name": "RabbitMQ",
-      "level": "Proficient"
-    },
-    {
-      "name": "Teamwork",
-      "level": "Expert"
-    },
-    {
-      "name": "Communication",
-      "level": "Expert"
-    },
-    {
-      "name": "Problem Solving",
-      "level": "Expert"
-    },
-    {
-      "name": "Adaptability",
-      "level": "Expert"
-    }
-
-  ],
-  "languages": [
-    {
-      "language": "French",
-      "fluency": "Native speaker"
-    },
-    {
-      "language": "Serbian",
-      "fluency": "Native speaker"
-    },
-    {
-      "language": "English",
-      "fluency": "Fluent"
-    },
-    {
-      "language": "Dutch",
-      "fluency": "Conversational"
-    }
-  ],
-  "interests": [
-    {
-      "name": "Hiking",
-      "keywords": [
-        "Mountains",
-        "Nature"
-      ]
-    },
-    {
-      "name": "Dogs",
-      "keywords": [
-        "Pekingese",
-        "Dog training"
-      ]
-    },
-    {
-      "name": "Family",
-      "keywords": [
-        "Kids",
-        "Family time"
-      ]
-    }
-  ],
- 
   "meta": {
     "canonical": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/sample.resume.json",
     "version": "v1.0.0",
