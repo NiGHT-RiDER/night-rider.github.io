@@ -47,7 +47,7 @@
     "Active contributor to the Frontend Chapter, promoting best practices, security improvements, tooling upgrades and shared standards",
     "Strong involvement in run & reliability topics: performance issues, mobile crashes, disaster recovery exercises, and production monitoring"
   ]
-}
+},
     
     {
       "company": "Telenet",
@@ -251,7 +251,7 @@
       "Work-life balance"
     ]
   }
-]
+],
 
   "meta": {
     "canonical": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/sample.resume.json",
